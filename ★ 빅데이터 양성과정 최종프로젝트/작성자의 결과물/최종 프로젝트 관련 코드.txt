@@ -1,0 +1,18 @@
+주소 :
+https://github.com/K-Final-Project/MZ-trend/tree/naver-crawler/네이버쇼핑몰%20칫솔-동호
+
+
+코드 내용 :
+웹크롤링을 통해 네이버쇼핑몰에서
+[댓글과 재구매여부, 한달사용후기여부, 구매일자, 별점, 구매품 종류 등을] DB로 저장하는 코드
+
+이를 전처리하여 통일시키는 코드
+
+자연어 처리를 통하여 분석하는 코드
+
+등을 통해 어떤 방식으로 구매가 이루어졌는지에 대한 분석 산출입니다.
+
+
+시각화 :
+https://public.tableau.com/app/profile/hadongho#!/?newProfile=&activeTab=0
+태블로를 사용하여 시각화하였습니다.
